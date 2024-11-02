@@ -1,0 +1,2 @@
+# AnomalyX
+AnomalyX frontend
